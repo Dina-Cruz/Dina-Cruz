@@ -1,9 +1,9 @@
 ## Hi there, I'm Dina 👋
 
 </div>
-  </iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGhcxQSCo8/MD39k_eZQE9907Bdr1lVtg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
+  
+    <img src="https://www.canva.com/design/DAGhcxQSCo8/MD39k_eZQE9907Bdr1lVtg/view?embed">
+  
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGhcxQSCo8&#x2F;MD39k_eZQE9907Bdr1lVtg&#x2F;view?utm_content=DAGhcxQSCo8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">DINA CRUZ</a> de Dina Carranza
 <!--# 💫 About Me:
