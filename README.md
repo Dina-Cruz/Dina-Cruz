@@ -1,8 +1,7 @@
 ## Hi there, I'm Dina 👋
 
-</div>
-    <img src=![DINA CRUZ](https://github.com/user-attachments/assets/f3868ec7-df3f-43b6-abef-8a772c306c6e)>
-</div>
+<h1>Insertar una imagen en un Canvas</h1>
+
 
 # 💫 About Me:
 <br>🌱 I’m currently learning the SOC Analyst path at RSM-US<br>
