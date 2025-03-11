@@ -1,6 +1,6 @@
 ## Hi there, I'm Dina 👋
 
-</div
+</div>
     <img src="https://www.canva.com/design/DAGhcxQSCo8/MD39k_eZQE9907Bdr1lVtg/view?embed">
 </div>
 
