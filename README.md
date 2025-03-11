@@ -3,7 +3,7 @@
 </div>
     <img src=["https://www.canva.com/design/DAGhcxQSCo8/MD39k_eZQE9907Bdr1lVtg/view?embed"](https://www.canva.com/design/DAGhcxQSCo8/MD39k_eZQE9907Bdr1lVtg/view)>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGhcxQSCo8&#x2F;MD39k_eZQE9907Bdr1lVtg&#x2F;view?utm_content=DAGhcxQSCo8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">DINA CRUZ</a> de Dina Carranza
+
 <!--# 💫 About Me:
 <br>🌱 I’m currently learning the SOC Analyst path at RSM-US<br>
 
