@@ -1,10 +1,6 @@
 ## Hi there, I'm Dina 👋
 
-</div>
-    <img src=["https://www.canva.com/design/DAGhcxQSCo8/MD39k_eZQE9907Bdr1lVtg/view?embed"](https://www.canva.com/design/DAGhcxQSCo8/MD39k_eZQE9907Bdr1lVtg/view)>
-</div>
-
-<!--# 💫 About Me:
+# 💫 About Me:
 <br>🌱 I’m currently learning the SOC Analyst path at RSM-US<br>
 
 
@@ -25,5 +21,3 @@
 [![](https://visitcount.itsvg.in/api?id=Dina-Cruz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
