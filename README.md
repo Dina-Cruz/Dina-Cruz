@@ -1,7 +1,7 @@
 ## Hi there, I'm Dina 👋
 
 </div>
-    <img src="https://www.canva.com/design/DAGhcxQSCo8/MD39k_eZQE9907Bdr1lVtg/view?embed">
+    <img src=![DINA CRUZ](https://github.com/user-attachments/assets/f3868ec7-df3f-43b6-abef-8a772c306c6e)>
 </div>
 
 # 💫 About Me:
