@@ -1,6 +1,6 @@
 ## Hi there, I'm Dina 👋
 
-<h1>Insertar una imagen en un Canvas</h1>
+![Image](https://github.com/user-attachments/assets/ba65a224-53e4-48c7-9fea-6cbae7ff70f9)
 
 
 # 💫 About Me:
