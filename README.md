@@ -1,9 +1,7 @@
 ## Hi there, I'm Dina 👋
 
-<div
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGhcxQSCo8/MD39k_eZQE9907Bdr1lVtg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
+</div
+    <img src="https://www.canva.com/design/DAGhcxQSCo8/MD39k_eZQE9907Bdr1lVtg/view?embed">
 </div>
 
 # 💫 About Me:
